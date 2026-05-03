@@ -1,5 +1,5 @@
 Technical Requirements Met:
-GitHub repository: FUTURE_ML_01
+GitHub repository: SDF-ML
 forecasts.csv uploaded with predictions
 LightGBM model trained successfully
 Time series forecasting implemented
